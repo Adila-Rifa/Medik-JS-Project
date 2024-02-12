@@ -1,8 +1,20 @@
 .head{
     color:white;
     background-color:#076CEB;
-    height: 50%;
+    height: 10%;
 }
 .icon-set{
     width:180px;
 }
+.fa-google{
+    margin-top: 5px;
+}
+.second-part{
+    background-image: url(./images/Back-img/shop-slider-bg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    
+}
+    /* WebBD##1-2.4G
+    WebBD##!-5g */
