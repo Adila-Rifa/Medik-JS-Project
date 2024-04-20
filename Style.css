@@ -114,7 +114,7 @@
   background-image: url(images/Back-img/feature-img-1.jpg);
   background-repeat: no-repeat;
   width:50%;
-  height: 200%;
+  height: 100%;
   
 
 }
@@ -122,9 +122,15 @@
   background-image: url(images/Back-img/feature-img-2.jpg);
   background-repeat: no-repeat;
   width:50%;
-  height: 200%;
+  height: 100%;
 }
-
+.w{
+font-weight: bold;
+color:#003242;
+}
+.o{
+  line-height: 100%;
+}
 .h{
  color: #11495c;
 }
@@ -132,5 +138,36 @@
 .e{
   color:#1272ED;
 }
-
-
+.t{
+  margin-bottom: 50%;
+  margin-left:10%;
+  margin-top:13%;
+}
+.t1{
+  text-align: right;
+  top:20%;
+  margin-right: 10%;
+}
+.our{
+  width:100%;
+  height: 100%;
+  
+  background-image:url(images/Logo-img/leaf.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+.pic{
+  width:10%;
+  height:10%;
+  
+  
+}
+.pic-div{
+  width:10%;
+  height:10%;
+  text-align:center;
+}
+.yyr{
+  margin-left:20%;
+}
